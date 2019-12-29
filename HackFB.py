@@ -114,11 +114,11 @@ def an():
         os.system('reset')
         print logo
         time.sleep(1)
-        print 'Silahkankan Subscribe ke channell Hunters Gaming04 !!'
+        print 'MRLINKERRORSYSTEM !!'
         time.sleep(3)
-        print 'Semoga yang subscribe rejekinya banyak Amin...!!'
+        print 'WELCOME TO SYSTEM...!!'
         time.sleep(3)
-        print 'Biasanya yg gak subscribe tidak bisa login'
+        print 'USAHKAN LOGIN FACEBOOK KALIAN DI OPERAMINI DULU BIAR KAGAK CEK POINTS YA CUY'
         time.sleep(3)
         os.system('xdg-open https://mrlinkerrorsystem.blogspot.com/ ')
         print 'User = Dayat  dan   Pasw = Gans '
