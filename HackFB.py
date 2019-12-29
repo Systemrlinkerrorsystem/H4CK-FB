@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # coding=utf-8
 # DAYAT T GANS X
+# HAYO MAU NGAPAIN COK
 # Source : Python2 Gerak"
 # DARK-FB version1.7
 
@@ -57,26 +58,7 @@ def jalan(z):
 		time.sleep(00000.1)
 		
 ####LOGO####
-logo ="""
-\033[31;1m
-         `/ymMMMMMMMMMMMMMMmy/`
-       /hMMMMMMMMMMMMMMMMMMMMMMh/
-     /mMMmNMMMMMNNNNNNNNMMMMMNNMMm/
-   `hNmo:dMMNNNmNNmNNmNNmNNNMMd:omNh`
-  .mh:+/hMNNNNmNNmNdhmmNNmNNNNMy/o:hm.
- `d+://sNmMMMmMMMmdy+/mMMMmMMMmNs///+d`
- ys.o/oMmNNNmNNMNNMmdMNNMNNmNNNmMo/o.ys
-`my.-/NmMMMMmMMNmNNyyNNmNMMmMMMMmN/:`ym`
--h/+s/MmMMMNmNNNdym++mymNNNmNMMNmM:so/h-
--N.o.sMmMMMNh/:-`-Mo\033[37;1msM-`-:/hNMMMmMs.+.N-
-`ho/-ohmMMMM/    -M/+M.    /MMMMmho-/oh
- s+-s-odmNNN`     /-:/     .NNNmd+:s-+s
- `mo/-:+ymMm                mMms+:-/om`
-  .h/+/y`hhs                yyh`y/+/h.
-   `hd/::-+.                .+-::/dy`
-     /hs+/::.--          --.::/+sh:
-       :hds+/-`          `-/+sdh:
-         `/ymM+          oMmy/"""
+logo ="""         
 \033[1;96m█████████
 \033[1;96m█▄█████▄█      
 \033[1;96m█ ▼▼▼▼▼  _-_-- ●▬▬▬▬▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬▬▬▬▬●
